@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="TestSuite" time="166.987" tests="2" errors="0" skipped="0" failures="0">
+<testsuite name="TestSuite" time="129.61" tests="2" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="java.vm.version" value="11.0.1+13-LTS"/>
@@ -25,9 +25,9 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="user.variant" value=""/>
     <property name="os.name" value="Windows 10"/>
-    <property name="classworlds.conf" value="C:\Users\IPSITA  HAZRA\eclipse-workspace\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf12381305123745430623.tmp"/>
+    <property name="classworlds.conf" value="C:\Users\IPSITA  HAZRA\eclipse-workspace\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf301016971264129352.tmp"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
-    <property name="java.library.path" value="C:\Program Files\Java\jdk-11.0.1\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:/Program Files/Java/jdk-11.0.1/bin/server;C:/Program Files/Java/jdk-11.0.1/bin;C:\Program Files (x86)\Intel\TXE Components\TCS\;C:\Program Files\Intel\TXE Components\TCS\;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\TXE Components\DAL\;C:\Program Files (x86)\Intel\TXE Components\DAL\;C:\Program Files\Intel\TXE Components\IPT\;C:\Program Files (x86)\Intel\TXE Components\IPT\;&quot;C:\Program Files\Java\jdk-11.0.1\bin;&quot;;C:\Users\IPSITA  HAZRA\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Java\jdk-11.0.1\bin;;C:\Users\IPSITA  HAZRA\Downloads\eclipse-jee-2019-12-R-win32-x86_64\eclipse;;."/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-11.0.1\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:/Program Files/Java/jdk-11.0.1/bin/server;C:/Program Files/Java/jdk-11.0.1/bin;C:\Program Files (x86)\Intel\TXE Components\TCS\;C:\Program Files\Intel\TXE Components\TCS\;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\TXE Components\DAL\;C:\Program Files (x86)\Intel\TXE Components\DAL\;C:\Program Files\Intel\TXE Components\IPT\;C:\Program Files (x86)\Intel\TXE Components\IPT\;&quot;C:\Program Files\Java\jdk-11.0.1\bin;&quot;;C:\Program Files\Git\cmd;C:\Users\IPSITA  HAZRA\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Java\jdk-11.0.1\bin;;C:\Users\IPSITA  HAZRA\Downloads\eclipse-jee-2019-12-R-win32-x86_64\eclipse;;."/>
     <property name="jdk.debug" value="release"/>
     <property name="java.class.version" value="55.0"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
@@ -60,6 +60,6 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase name="loginToFacebookAndPost" classname="com.automation.TestScripts.testCases" time="102.351"/>
-  <testcase name="loginToSwagLabsAndAdd2Cart" classname="com.automation.TestScripts.testCases" time="64.636"/>
+  <testcase name="loginToFacebookAndPost" classname="com.automation.TestScripts.testCases" time="76.571"/>
+  <testcase name="loginToSwagLabsAndAdd2Cart" classname="com.automation.TestScripts.testCases" time="53.039"/>
 </testsuite>

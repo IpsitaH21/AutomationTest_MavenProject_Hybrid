@@ -2,32 +2,32 @@
 <testng-results total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2020-02-04T19:26:21Z" name="Suite" finished-at="2020-02-04T19:29:40Z" duration-ms="198573">
+  <suite started-at="2020-02-08T21:15:08Z" name="Suite" finished-at="2020-02-08T21:17:32Z" duration-ms="143944">
     <groups>
     </groups>
-    <test started-at="2020-02-04T19:26:21Z" name="Test" finished-at="2020-02-04T19:29:40Z" duration-ms="198573">
+    <test started-at="2020-02-08T21:15:08Z" name="Test" finished-at="2020-02-08T21:17:32Z" duration-ms="143944">
       <class name="com.automation.TestScripts.testCases">
-        <test-method is-config="true" signature="openBrowser()[pri:0, instance:com.automation.TestScripts.testCases@45d84a20]" started-at="2020-02-05T00:56:21Z" name="openBrowser" finished-at="2020-02-05T00:56:42Z" duration-ms="21373" status="PASS">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:com.automation.TestScripts.testCases@624ea235]" started-at="2020-02-09T02:45:08Z" name="openBrowser" finished-at="2020-02-09T02:45:15Z" duration-ms="6676" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openBrowser -->
-        <test-method signature="loginToFacebookAndPost()[pri:0, instance:com.automation.TestScripts.testCases@45d84a20]" started-at="2020-02-05T00:56:42Z" name="loginToFacebookAndPost" finished-at="2020-02-05T00:58:24Z" duration-ms="101656" status="PASS">
+        <test-method signature="loginToFacebookAndPost()[pri:0, instance:com.automation.TestScripts.testCases@624ea235]" started-at="2020-02-09T02:45:15Z" name="loginToFacebookAndPost" finished-at="2020-02-09T02:46:32Z" duration-ms="76511" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginToFacebookAndPost -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.automation.TestScripts.testCases@45d84a20]" started-at="2020-02-05T00:58:24Z" name="closeBrowser" finished-at="2020-02-05T00:58:26Z" duration-ms="1759" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.automation.TestScripts.testCases@624ea235]" started-at="2020-02-09T02:46:32Z" name="closeBrowser" finished-at="2020-02-09T02:46:33Z" duration-ms="1479" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
-        <test-method is-config="true" signature="openBrowser()[pri:0, instance:com.automation.TestScripts.testCases@45d84a20]" started-at="2020-02-05T00:58:26Z" name="openBrowser" finished-at="2020-02-05T00:58:34Z" duration-ms="8100" status="PASS">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:com.automation.TestScripts.testCases@624ea235]" started-at="2020-02-09T02:46:33Z" name="openBrowser" finished-at="2020-02-09T02:46:38Z" duration-ms="5212" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openBrowser -->
-        <test-method signature="loginToSwagLabsAndAdd2Cart()[pri:0, instance:com.automation.TestScripts.testCases@45d84a20]" started-at="2020-02-05T00:58:34Z" name="loginToSwagLabsAndAdd2Cart" finished-at="2020-02-05T00:59:39Z" duration-ms="64636" status="PASS">
+        <test-method signature="loginToSwagLabsAndAdd2Cart()[pri:0, instance:com.automation.TestScripts.testCases@624ea235]" started-at="2020-02-09T02:46:38Z" name="loginToSwagLabsAndAdd2Cart" finished-at="2020-02-09T02:47:31Z" duration-ms="53043" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginToSwagLabsAndAdd2Cart -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.automation.TestScripts.testCases@45d84a20]" started-at="2020-02-05T00:59:39Z" name="closeBrowser" finished-at="2020-02-05T00:59:40Z" duration-ms="1007" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.automation.TestScripts.testCases@624ea235]" started-at="2020-02-09T02:47:31Z" name="closeBrowser" finished-at="2020-02-09T02:47:32Z" duration-ms="979" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
